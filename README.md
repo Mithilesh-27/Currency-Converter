@@ -21,6 +21,10 @@ A simple and responsive currency converter built with **React** and **Tailwind C
 
 ---
 
+## Live Demo
+
+Check out the live version of the website here: [Currency-Converter](https://currency-converter-jet-xi-60.vercel.app/)
+
 ## 📂 Project Structure
 
 ```bash
